@@ -294,7 +294,10 @@ body{
     #herofooter{
         font-size: 4vw;
     }
-    
+    #herofooter .circle {
+        width: 22px;
+        height: 22px;
+    }   
 
     /* second page */
     #second {
